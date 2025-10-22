@@ -3,8 +3,11 @@
 <h5> Author: Sara Jandrew </h5> 
 <h5> Date: February 28, 2023 </h5>
 <h5> Issue #: 03 </h5> 
+<h5>Tags: Datavis, Corsets, Mapping, History </h5>
 
-<h4> Bio: </h4>
+<h5>Bio: Sara (she/her) is an undergraduate student at the University of Guelph, studying Art History and CTS. She loves thrifting, museums, horror movies and has a dog named Aussie. She wrote this project in her first year in the class CTS 2010. </h5>
+
+<h4> Abstract: </h4>
 I created this project in CTS 2010; we had to select a technology and create a map about an aspect about it. My technology was corsets and I broke down each material that goes into creating one, mapping where each material would have been made.  
 [Here is the link to my submission] (https://www.google.com/maps/d/u/0/edit?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&usp=sharing)
 
