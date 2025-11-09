@@ -1,15 +1,16 @@
-<h1> Welcome to CTRL+ALT+DH! 1</h1>	
+<h1> Welcome to CTRL+ALT+DH! </h1>	
 <h5> Title: The Anatomy of a Corset </h5>
 <h5> Author: Sara Jandrew </h5> 
 <h5> Date: February 28, 2023 </h5>
 <h5> Issue #: 03 </h5> 
 <h5>Tags: Datavis, Corsets, Mapping, History </h5>
+<h5> </h5>
 
 <h5>Bio: Sara (she/her) is an undergraduate student at the University of Guelph, studying Art History and CTS. She loves thrifting, museums, horror movies and has a dog named Aussie. She wrote this project in her first year in the class CTS 2010. </h5>
 
 <h4> Abstract: </h4>
 I created this project in CTS 2010; we had to select a technology and create a map about an aspect about it. My technology was corsets and I broke down each material that goes into creating one, mapping where each material would have been made.  
-[Here is the link to my submission] (https://www.google.com/maps/d/u/0/edit?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&usp=sharing)
+[Here is the link to my submission] https://www.google.com/maps/d/viewer?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&ll=29.917483524956726%2C-3.5750575499999826&z=2
 
 
 <h5> Citations:  </h5>
