@@ -9,11 +9,12 @@
 <h5>Bio: Sara (she/her) is an undergraduate student at the University of Guelph, studying Art History and CTS. She loves thrifting, museums, horror movies and has a dog named Aussie. She wrote this project in her first year in the class CTS 2010. </h5>
 
 <h4> Abstract: </h4>
-I created this project in CTS 2010; we had to select a technology and create a map about an aspect about it. My technology was corsets and I broke down each material that goes into creating one, mapping where each material would have been made.  
+This is my "The Anatomy of a Corset" Project. I created this project as an assignment for class (CTS 2010) in my second year; we had to select a technology and create a series of projects surrounding the technology. One of the assignments was to create a map about an aspect of the technology. My technology was corsets, and I broke down each material that goes into creating one, mapping where each material would have been made.  
 
-<h4> [Here is the link to my submission] </h4>
+<h4> Here is the link to my submission: </h4>
 https://www.google.com/maps/d/viewer?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&ll=29.917483524956726%2C-3.5750575499999826&z=2
 
+<h4> Here is the link to my portfolio website, and reflection the creation of this assingment: https://srjandrew.wordpress.com/2023/02/28/the-anatomy-of-a-corset/ </h4>
 
 <h5> Citations:  </h5>
 Archives de la Ville de Québec. “Sewing room of the finishing department of the Dominion Corset Company.” WikiCommons, 18 June 2014, https://commons.wikimedia.org/wiki/File:Dominion_Corset_-_Stitching_Room_Closing_Department.tif. Accessed 26 February 2023.   
