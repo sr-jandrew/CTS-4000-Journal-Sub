@@ -11,6 +11,9 @@
 <h4> Abstract: </h4>
 This is my "The Anatomy of a Corset" Project. I created this project as an assignment for class (CTS 2010) in my second year; we had to select a technology and create a series of projects surrounding the technology. One of the assignments was to create a map about an aspect of the technology. My technology was corsets, and I broke down each material that goes into creating one, mapping where each material would have been made.  
 
+<h4> What to Expect: </h4>
+
+
 <h4> Here is the link to my submission: </h4>
 https://www.google.com/maps/d/viewer?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&ll=29.917483524956726%2C-3.5750575499999826&z=2
 
