@@ -12,12 +12,12 @@
 This is my "The Anatomy of a Corset" Project. I created this project as an assignment for class (CTS 2010) in my second year; we had to select a technology and create a series of projects surrounding the technology. One of the assignments was to create a map about an aspect of the technology. My technology was corsets, and I broke down each material that goes into creating one, mapping where each material would have been made.  
 
 <h4> What to Expect: </h4>
-
+What you will see when you first open the page is quite similar to what you would see if you opened Google Maps, as this map was made with Google’s My Maps application. The map is a modern map, with geographic boundaries from the 21st century, so it does not entirely accurately depict how regions would have looked throughout history. The map is interactive, so you can move around or zoom in/out as much as you would like. Along the left-hand side, there is a legend detailing the different aspects of go into the creation of a corset. From fabric, stiffening agents and embellishments, this map incorporates all the different elements involved in the garments' conception. Each of the corset's components is tagged to a specific location, where that item was most commonly made. However, it is important to mention that not every corset made would have gone or pulled elements from all of the locations. This is where each component was most commonly produced, which would have gone through its own distribution process before being made into a garment. Each location tag is accompanied by a small blurb about the garment element, where it was made and why. If you want to learn more about the history of corsets, here is my timeline of corsets, as well, all of my sources are cited below. https://srjandrew.wordpress.com/2023/02/07/timeline-assignment-corset-history/ 
 
 <h4> Here is the link to my submission: </h4>
 https://www.google.com/maps/d/viewer?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&ll=29.917483524956726%2C-3.5750575499999826&z=2
 
-<h4> Here is the link to my portfolio website, and reflection the creation of this assingment: https://srjandrew.wordpress.com/2023/02/28/the-anatomy-of-a-corset/ </h4>
+<h4> Here is the link to my portfolio website, and reflection of the creation of this assingment: https://srjandrew.wordpress.com/2023/02/28/the-anatomy-of-a-corset/ </h4>
 
 <h5> Citations:  </h5>
 Archives de la Ville de Québec. “Sewing room of the finishing department of the Dominion Corset Company.” WikiCommons, 18 June 2014, https://commons.wikimedia.org/wiki/File:Dominion_Corset_-_Stitching_Room_Closing_Department.tif. Accessed 26 February 2023.   
