@@ -19,6 +19,9 @@ https://www.google.com/maps/d/viewer?mid=1vGxTxQAm4c7RZXe7ED9QF8h6nvMscSA&ll=29.
 
 <h4> Here is the link to my portfolio website, and reflection of the creation of this assingment: https://srjandrew.wordpress.com/2023/02/28/the-anatomy-of-a-corset/ </h4>
 
+<h4> Why a Map? </h4>
+Why a map, why not an essay? Although there are benefits to writing an essay (or any other format), presenting this information as a map provides a more visually interesting project with interactive elements for users to engage with. Users can have more autonomy over how they move through the map, at what pace and in a more stimulating format. Furthermore, this breaks down the information in an unconventional way, both in topic and format, to give users a fresh and exciting way to consume new content.  
+
 <h5> Citations:  </h5>
 Archives de la Ville de Québec. “Sewing room of the finishing department of the Dominion Corset Company.” WikiCommons, 18 June 2014, https://commons.wikimedia.org/wiki/File:Dominion_Corset_-_Stitching_Room_Closing_Department.tif. Accessed 26 February 2023.   
 Banner, Bernadette. “What Did Victorian Corsets *Actually* Look Like? || Examining Corsets From the Symington Collection.” YouTube, 12 October 2019, https://www.youtube.com/watch?v=5QUEf-8BKyE. Accessed 26 February 2023.  
